@@ -1,0 +1,31 @@
+.dataTables_length label{
+    display: flex;
+    align-items: center;
+}
+.dataTables_length label select{
+    width:15%;
+    margin:0px 4px
+}
+.dataTables_filter label{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.dataTables_filter label input{
+    width: 45%;
+    margin-left:10px;
+}
+
+.btn-tbl-delete{
+    padding: 6px 8px !important;
+}
+
+.table-footer-left{
+    display: flex;
+    align-items: center;
+}
+
+.table-footer-right{
+    display: flex;
+    justify-content: flex-end;
+}
